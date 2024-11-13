@@ -1,0 +1,22 @@
+{
+  "name": "jun_6_backed_url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@esm2cjs/normalize-url": "^8.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "normalize-url": "^8.0.1",
+    "shortid": "^2.2.16",
+    "ssid": "^0.0.4"
+  }
+}
